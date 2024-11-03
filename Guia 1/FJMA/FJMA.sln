@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJMA.Temperatura", "FJMA.Temperatura\FJMA.Temperatura.csproj", "{026A13E6-2BB3-4129-AFC9-47265F347835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJMA.Temperatura.UnitTestMSTest", "FJMA.Temperatura.UnitTestMSTest\FJMA.Temperatura.UnitTestMSTest.csproj", "{2E3686E9-EAE6-4912-BF95-47DCE27AB6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026A13E6-2BB3-4129-AFC9-47265F347835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026A13E6-2BB3-4129-AFC9-47265F347835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026A13E6-2BB3-4129-AFC9-47265F347835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026A13E6-2BB3-4129-AFC9-47265F347835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3686E9-EAE6-4912-BF95-47DCE27AB6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3686E9-EAE6-4912-BF95-47DCE27AB6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3686E9-EAE6-4912-BF95-47DCE27AB6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3686E9-EAE6-4912-BF95-47DCE27AB6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0947AC2B-8F1B-4D84-AF25-380F8F3AF01B}
+	EndGlobalSection
+EndGlobal
